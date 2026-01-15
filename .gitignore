@@ -1,0 +1,11 @@
+# build
+build/
+cmake-build-*/
+
+# object files
+*.o
+*.obj
+
+# executables
+a.out
+*.exe
